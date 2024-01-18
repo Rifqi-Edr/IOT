@@ -1,12 +1,16 @@
 1. Sejarah dan Definisi IOT
-    Internet of Things (IoT) mengacu pada jaringan perangkat fisik yang terhubung melalui internet, memungkinkan mereka saling berkomunikasi dan berbagi data. Konsep ini telah berkembang seiring waktu dan melibatkan evolusi teknologi komunikasi dan sensor.
+   
+    Internet of Things (IoT) mengacu pada jaringan perangkat fisik yang terhubung melalui internet, memungkinkan mereka saling berkomunikasi dan berbagi data. Konsep ini telah berkembang seiring waktu dan
+    melibatkan evolusi teknologi komunikasi dan sensor.
 
     Asal Usul:
-    Konsep IoT pertama kali muncul pada awal 1980-an. Sejak saat itu, teknologi komunikasi nirkabel terus berkembang, memberikan landasan untuk perkembangan IoT. Perkembangan tersebut melibatkan pemakaian RFID (Radio-Frequency Identification) dan sistem
+    Konsep IoT pertama kali muncul pada awal 1980-an. Sejak saat itu, teknologi komunikasi nirkabel terus berkembang, memberikan landasan untuk perkembangan IoT. Perkembangan tersebut melibatkan pemakaian RFID
+    (Radio-Frequency Identification) dan sistem
     sensor awal.
 
     Era Internet:
-    Dalam perkembangan lebih lanjut, dengan semakin luasnya adopsi internet pada tahun 1990-an, orang mulai mempertimbangkan bagaimana perangkat di dunia fisik dapat terhubung dan berkomunikasi secara efektif melalui internet.
+    Dalam perkembangan lebih lanjut, dengan semakin luasnya adopsi internet pada tahun 1990-an, orang mulai mempertimbangkan bagaimana perangkat di dunia fisik dapat terhubung dan berkomunikasi secara efektif
+    melalui internet.
 
     Perkembangan Sensor:
     Pengembangan sensor dan perangkat keras kecil semakin memungkinkan integrasi perangkat ini ke dalam berbagai objek sehari-hari, mulai dari rumah hingga mobil, dan bahkan pakaian.
@@ -15,12 +19,13 @@
     Pada tahun 2000-an, munculnya standar dan protokol komunikasi seperti MQTT (Message Queuing Telemetry Transport) dan CoAP (Constrained Application Protocol) membantu memfasilitasi komunikasi antarperangkat IoT.
 
     Masa Kini:
-    Saat ini, IoT mencakup berbagai bidang, termasuk smart homes, smart cities, smart industries, dan banyak lagi. Teknologi ini terus berkembang, didorong oleh inovasi dalam bidang konektivitas, kecerdasan buatan, dan analisis data.
+    Saat ini, IoT mencakup berbagai bidang, termasuk smart homes, smart cities, smart industries, dan banyak lagi. Teknologi ini terus berkembang, didorong oleh inovasi dalam bidang konektivitas, kecerdasan
+    buatan, dan analisis data.
 
    Definisi IOT
    IOT merupakan sebuah konsep dimana suatu objek yang memiliki kemampuan untuk mentransfer data melalui jaringan tanpa memerlukan interaksi manusia ke manusia atau manusia ke komputer.
 
-2. Referensi Model IOT
+3. Referensi Model IOT
    1. Physical Devices & Controller
     Layer pertama dari referensi model IoT adalah Physical Devices & Controller. Layer ini merupakan layer terbawah dalam hierarki referensi model IoT yang bertanggung jawab untuk mengumpulkan data dari sensor atau perangkat yang terhubung ke jaringan IoT.
     Pada layer ini, perangkat keras seperti Raspberry Pi, Arduino, dan sensor-sensor IoT berada di dalamnya. Raspberry Pi dan Arduino sering digunakan sebagai kontroler atau gateway untuk menghubungkan beberapa sensor dan perangkat IoT ke jaringan internet.
@@ -48,7 +53,7 @@
     Layer terakhir dari referensi model IoT adalah Data Abstraction. Pada layer ini, data yang telah diolah dan dianalisis diambil dan diubah menjadi bentuk yang lebih mudah dimengerti dan diakses oleh pengguna akhir. Contoh teknologi yang sering digunakan
     pada layer ini adalah API dan GraphQL.
 
-3. Contoh Implementasi IOT
+4. Contoh Implementasi IOT
    1. Kesehatan
       - sensor jantung
       - alat pelacak rawat jalan
@@ -62,7 +67,7 @@
        - Waste Management
        - Air Quality Monitoring
          
-4. Kebutuhan IOT
+5. Kebutuhan IOT
 
    iot dapat di temukan dalam kehidupan sehari hari, seperti contohnya smart watch. dengan adanya smartwatch kita dapat merekam status kesehatan kita menggunakan sensor detak jantung, serta dengan menggunakan
    smart watch kita dapat menyimpan data lokasi yang
