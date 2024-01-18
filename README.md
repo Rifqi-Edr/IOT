@@ -1,3 +1,6 @@
+09021382126155
+Muhammad Rifqi Edrial
+
 1. Sejarah dan Definisi IOT
    
     Internet of Things (IoT) mengacu pada jaringan perangkat fisik yang terhubung melalui internet, memungkinkan mereka saling berkomunikasi dan berbagi data. Konsep ini telah berkembang seiring waktu dan
