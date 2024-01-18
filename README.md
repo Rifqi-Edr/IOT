@@ -63,5 +63,6 @@
        - Air Quality Monitoring
          
 4. Kebutuhan IOT
-   iot dapat di temukan dalam kehidupan sehari hari, seperti contohnya samrt watch. dengan adanya smartwatch kita dapat merekam status kesehatan kita menggunakan sensor detak jantung, serta dengan menggunakan smart watch kita dapat menyimpan data lokasi yang
+   iot dapat di temukan dalam kehidupan sehari hari, seperti contohnya smart watch. dengan adanya smartwatch kita dapat merekam status kesehatan kita menggunakan sensor detak jantung, serta dengan menggunakan
+   smart watch kita dapat menyimpan data lokasi yang
    di kunjungi dan merekam jalan yang di ambil menggunakan GPS
